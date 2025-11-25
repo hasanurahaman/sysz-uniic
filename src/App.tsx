@@ -208,3 +208,17 @@ export default function App() {
     </ToastProvider>
   );
 }
+
+<div className="max-w-3xl mx-auto mt-12 px-4">
+  <h2 className="text-2xl font-semibold mb-3">Free Online Image Converter</h2>
+  <p className="text-gray-400 leading-relaxed">
+    SysZ Universal Image Converter is a fast, free, and private tool to convert images
+    between JPG, PNG, WEBP, AVIF and more. All conversions happen directly inside your
+    browser, ensuring your images are never uploaded to any server.
+
+    You can batch convert multiple files at once, remove sensitive metadata, choose
+    custom background colors, and export ZIP files for bulk downloads.
+    Whether you are preparing images for design, websites, or social media, SysZ
+    delivers a clean, ad-free, and professional experience.
+  </p>
+</div>

@@ -15,7 +15,7 @@ A fully client-side, privacy-focused image converter web application built with 
 
 ## Live Demo
 
-Visit the live application: [Universal Image Converter](https://sysz.me/apps/universal_image_converter/)
+Visit the live application: [Universal Image Converter](https://uniic.sysz.me)
 
 ## Tech Stack
 
